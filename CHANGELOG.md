@@ -4,7 +4,7 @@
 
 [Full Changelog](https://github.com/bbc/device_api-ios/compare/v1.0.5...HEAD)
 
-**Closed issues:**
+**Closed issues:**   
 
 - Plistutil calls in device.rb should cache results [\#10](https://github.com/bbc/device_api-ios/issues/10)
 
